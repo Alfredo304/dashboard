@@ -1,1 +1,1 @@
-# pandemicx.github.io
+# pandemicx
